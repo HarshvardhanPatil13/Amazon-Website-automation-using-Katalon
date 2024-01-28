@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View List</name>
+   <tag></tag>
+   <elementGuidId>0f705d41-1d89-468c-ad60-cac2a568e7a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-button.a-button-base.a-button-focus > span.a-button-inner > a.a-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wl-huc-post-create-msg']/div[2]/span/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>805c4825-3ae9-419b-9dee-a19e6c439775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/hz/wishlist/ls/BGGK2088M1F8?ref_=cm_wl_create_title</value>
+      <webElementGuid>02d01538-eeb7-48fd-9d4f-f35f07485147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-text</value>
+      <webElementGuid>f8105a92-6c20-4d40-8d83-b72d67fc00be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View List</value>
+      <webElementGuid>3c9232f3-864c-482e-a7f1-dfa2182e20c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wl-huc-post-create-msg&quot;)/div[@class=&quot;a-button-stack a-spacing-top-small&quot;]/span[@class=&quot;a-button a-button-base a-button-focus&quot;]/span[@class=&quot;a-button-inner&quot;]/a[@class=&quot;a-button-text&quot;]</value>
+      <webElementGuid>a4a82ca3-4fd4-4d9b-9b78-d658591d146b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wl-huc-post-create-msg']/div[2]/span/span/a</value>
+      <webElementGuid>45275bbf-3a40-4204-a6e7-be91d447ceda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View List')]</value>
+      <webElementGuid>10b8e520-0000-434e-9a6e-002ef3cd8cf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/hz/wishlist/ls/BGGK2088M1F8?ref_=cm_wl_create_title')]</value>
+      <webElementGuid>04631d94-18b6-4f51-b8c8-3c243131bb95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/span/span/a</value>
+      <webElementGuid>825cedc2-22c0-49bf-8a6e-4fa8034a0f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/hz/wishlist/ls/BGGK2088M1F8?ref_=cm_wl_create_title' and (text() = 'View List' or . = 'View List')]</value>
+      <webElementGuid>7d49404a-bac9-4d15-96ae-045fb9ebb6c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

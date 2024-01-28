@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_Search_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7347a6a5-7607-4ccb-9194-747e582fdff3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9af77ddb-d231-4bb8-bbf9-85de562b93d9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'wings of fire'</defaultValue>
+      <description></description>
+      <id>9af77ddb-d231-4bb8-bbf9-85de562b93d9</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
+</TestCaseEntity>

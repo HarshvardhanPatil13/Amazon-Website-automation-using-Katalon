@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Edit login, name, and mobile number</name>
+   <tag></tag>
+   <elementGuidId>60782c51-46fe-4379-ad32-fa8832907b9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-page']/div/div/div[2]/div[2]/a/div/div/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8d28280f-a4cd-4215-b78d-5181f08ea0a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-color-secondary</value>
+      <webElementGuid>b4d77969-7306-4032-af50-9e8ca0d9dbea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit login, name, and mobile number</value>
+      <webElementGuid>dceb77a6-960c-4ba5-9d68-f0fb8e4b13a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/div[@class=&quot;a-container&quot;]/div[@class=&quot;a-section ya-personalized&quot;]/div[@class=&quot;ya-card-row&quot;]/div[@class=&quot;ya-card-cell&quot;]/a[@class=&quot;ya-card__whole-card-link&quot;]/div[@class=&quot;a-box ya-card--rich&quot;]/div[@class=&quot;a-box-inner&quot;]/div[@class=&quot;a-row&quot;]/div[@class=&quot;a-column a-span9 a-span-last&quot;]/div[1]/span[@class=&quot;a-color-secondary&quot;]</value>
+      <webElementGuid>21cf27f3-fbbd-46b1-8a19-b192e18ca93b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/div/div/div[2]/div[2]/a/div/div/div/div[2]/div/span</value>
+      <webElementGuid>2916e55f-5f7c-4dae-ab25-a624aeb84f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div/div/div/div[2]/div/span</value>
+      <webElementGuid>dd429957-7002-4eef-b78a-a182bef82b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Edit login, name, and mobile number' or . = 'Edit login, name, and mobile number')]</value>
+      <webElementGuid>95cfc857-cec3-40a3-944e-692f2b1f5183</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

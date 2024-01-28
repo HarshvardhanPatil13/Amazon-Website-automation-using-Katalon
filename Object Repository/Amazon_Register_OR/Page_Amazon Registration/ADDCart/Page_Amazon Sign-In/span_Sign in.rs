@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign in</name>
+   <tag></tag>
+   <elementGuidId>5e19f473-d25b-452c-9929-f218351ba505</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#auth-signin-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='auth-signin-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4e5c8ed5-b3b0-4920-a150-598ff2b6eb5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>auth-signin-button</value>
+      <webElementGuid>61b11e18-83e3-4416-afe2-5986c65263b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button a-button-span12 a-button-primary auth-disable-button-on-submit</value>
+      <webElementGuid>a39fc96a-41c2-4b6b-8a57-daa80f3276f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Sign in
+          </value>
+      <webElementGuid>963d5773-53e2-412d-aec6-a8e78f7ec490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;auth-signin-button&quot;)</value>
+      <webElementGuid>10758d23-961d-4c5d-b17c-0610e622d474</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='auth-signin-button']</value>
+      <webElementGuid>52fa2707-be9a-4b04-a50c-37a87a83d86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='authportal-main-section']/div[2]/div/div[2]/div/form/div/div[2]/span</value>
+      <webElementGuid>4b21b9ec-fa77-4a4c-b05c-22ab3da6b623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>06720628-6198-4d97-9859-43c68f840428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'auth-signin-button' and (text() = '
+            Sign in
+          ' or . = '
+            Sign in
+          ')]</value>
+      <webElementGuid>cfb52395-ce7b-4fb9-89d1-0a43d811aa8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

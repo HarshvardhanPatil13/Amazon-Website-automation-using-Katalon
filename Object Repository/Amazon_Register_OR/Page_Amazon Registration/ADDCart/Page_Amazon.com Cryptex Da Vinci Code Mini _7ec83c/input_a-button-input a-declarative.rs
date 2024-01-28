@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_a-button-input a-declarative</name>
+   <tag></tag>
+   <elementGuidId>981cab6d-1beb-45d3-ab08-d9e3108a9f4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-button.a-button-primary.a-button-focus > span.a-button-inner > input.a-button-input.a-declarative</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='submit'])[32]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>dbec402f-c14d-4161-9cee-27c2a6409167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-input a-declarative</value>
+      <webElementGuid>b430d28f-705c-469b-9f37-4e4d8a8802b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>9062293d-6ca4-42b0-8439-d5543e172206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wl-redesigned-create-list&quot;)/span[@class=&quot;a-button a-button-primary a-button-focus&quot;]/span[@class=&quot;a-button-inner&quot;]/input[@class=&quot;a-button-input a-declarative&quot;]</value>
+      <webElementGuid>46d3ca55-deee-4566-a897-2a549708554d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='submit'])[32]</value>
+      <webElementGuid>832ffe9f-4891-40f3-a3c9-6bc063d9f599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='wl-redesigned-create-list']/span/span/input</value>
+      <webElementGuid>d9e52774-0b73-4eaf-88b5-5fe41cb22436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/span/span/input</value>
+      <webElementGuid>e17cd22e-a4f4-487b-a3d2-c54e4b80f621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>a02c6bff-08a3-4b8b-aee0-30ce5a2cd557</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
